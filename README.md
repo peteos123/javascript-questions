@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lydiahallie/javascript-questions)
+
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <h1>JavaScript Questions</h1>
